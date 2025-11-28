@@ -326,8 +326,11 @@ __pycache__/
 
 ## 👥 Authors
 
-- Achraf Tata - Web Application Designer
--
+- Achraf Tata
+- Taha Tahiri Alaoui
+- Adam Yassine
+- Noura Riahi El idrissi
+- Mohamadou Taha Thiam
 
 ## 🙏 Acknowledgments
 
