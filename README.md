@@ -83,10 +83,7 @@ MNHS-Web-Application/
 ├── requirements.txt         # Python dependencies
 ├── .env                     # Environment variables (create this)
 ├── .gitignore              # Git ignore file
-├── setup.sh                # Linux/Mac setup script
-├── setup.bat               # Windows setup script
-├── run.sh                  # Linux/Mac run script
-└── run.bat                 # Windows run script
+└── mnhs.py                  # Command Line interface to quickly debug and test functions
 ```
 
 ## 🔧 Configuration
